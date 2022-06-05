@@ -1,5 +1,5 @@
 package D8Assignment.Q4;
-class Animal
+class Animal 
 {
 	public void makeNoise()
 	{
